@@ -14,3 +14,11 @@ ii]  git status
 
 iii] git status
      git push origin main
+     
+iv] git init -- to creat local repo
+    git add .
+    git commit -m "done"
+    git branch -M main 
+    git remote add origin url 
+    git push orgin main 
+    git pull orgin main 
